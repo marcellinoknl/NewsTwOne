@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsTwOne</string>
+    <string name="news_sub_heading">News Sub Heading</string>
+    <string name="news_heading">News Heading</string>
+    <string name="todo">TODO</string>
+    <string name="newstwone">NewsTwOne</string>
+    <string name="todo2">TODO</string>
+    <string name="category">Category</string>
+</resources>
